@@ -1,8 +1,8 @@
 # [Diogo] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-Eu sou <strong>Diogo</strong>, <strong>estou estudando programação</strong> 👨🏻‍💻 
+Eu sou <strong>Diogo</strong>, <strong>estou estudando programação</strong> 
 
-- 🚀 Atualmente estou aprendendo: <strong>JavaScript</strong> 
+- 🚀 Atualmente estou aprendendo: <strong>JAVA</strong> 
 - 💬 Pergunte-me sobre: <strong>Programação e jogos</strong>
 - 📣 Nós podemos falar em: <strong>Inglês</strong>
 
