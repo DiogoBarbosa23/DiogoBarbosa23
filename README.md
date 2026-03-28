@@ -2,7 +2,7 @@
 
 Eu sou <strong>Diogo</strong>, <strong>estou estudando programação</strong> 
 
-- 🚀 Atualmente estou aprendendo: <strong>JAVA</strong> 
+- 🚀 Atualmente estou aprendendo: <strong>JavaScript, HTML e CSS</strong> 
 - 💬 Pergunte-me sobre: <strong>Programação e jogos</strong>
 - 📣 Nós podemos falar em: <strong>Inglês</strong>
 
