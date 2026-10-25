@@ -1,4 +1,4 @@
-# [Diogo] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# [Diogo Barbosa] 
 
 Sou <strong>Desenvolvedor de Software</strong>, com experiência prática em desenvolvimento de sistemas, automação, aplicações web, QA, dados e Inteligência Artificial.
 
@@ -9,8 +9,9 @@ Entre meus principais projetos estão:
 - <strong>SDIP</strong> — aplicação desktop em Python para digitalização e reconhecimento automatizado de pesquisas utilizando OpenCV, OMR, ArUco e processamento de imagens.
 - <strong>BI Factory</strong> — ferramenta em Python para automação da criação de dashboards e projetos Power BI.
 - <strong>Assistente de IA</strong> — aplicação web para criação estruturada de prompts e interação com ferramentas de Inteligência Artificial.
+- <strong>Desenvolvimento Web — Criação, manutenção e adaptação de sites e aplicações responsivas, com foco em interface, usabilidade, testes e compatibilidade entre dispositivos utilizando HTML, CSS, JavaScript, PHP, WordPress e APIs REST.
 
-Concluindo <strong>Análise e Desenvolvimento de Sistemas</strong> em dezembro de 2026.
+Concluindo <strong>Análise e Desenvolvimento de Sistemas</strong>
 
 <div align="center">
 
