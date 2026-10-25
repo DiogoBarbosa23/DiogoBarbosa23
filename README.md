@@ -1,13 +1,25 @@
 # [Diogo] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-Sou estudante de <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong> e atualmente atuo como <strong>estagiário de Tecnologia da Informação</strong>, com experiência prática em desenvolvimento web, QA, automação de processos, Inteligência Artificial, dados e infraestrutura.
+Sou <strong>Desenvolvedor de Software</strong>, com experiência prática em desenvolvimento de sistemas, automação, aplicações web, QA, dados e Inteligência Artificial.
 
-Tenho interesse principalmente em <strong>desenvolvimento backend e engenharia de software</strong>, enquanto continuo aprofundando meus conhecimentos em Python, APIs, desenvolvimento web e arquitetura de sistemas.
+Atualmente trabalho principalmente com <strong>Python, JavaScript, APIs e desenvolvimento Full Stack</strong>, com foco em <strong>Backend e Engenharia de Software</strong>.
+
+Entre meus principais projetos estão:
+
+- <strong>SDIP</strong> — aplicação desktop em Python para digitalização e reconhecimento automatizado de pesquisas utilizando OpenCV, OMR, ArUco e processamento de imagens.
+- <strong>BI Factory</strong> — ferramenta em Python para automação da criação de dashboards e projetos Power BI.
+- <strong>Assistente de IA</strong> — aplicação web para criação estruturada de prompts e interação com ferramentas de Inteligência Artificial.
+
+Concluindo <strong>Análise e Desenvolvimento de Sistemas</strong> em dezembro de 2026.
 
 <div align="center">
 
-<a href="#" alt="Gmail"> <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
+<a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white"/>
+</a>
 
-<a href="https://www.linkedin.com/in/diogo-barbosa-64a366328/" alt="Linkedin"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+<a href="https://www.linkedin.com/in/diogo-barbosa-64a366328/" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
+</a>
 
 </div>
